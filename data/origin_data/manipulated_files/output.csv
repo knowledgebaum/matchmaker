@@ -1,0 +1,240 @@
+bir_origin.txt,FAMILY
+bir_origin.txt,LATIN NAME(S)
+bir_origin.txt,ENGLISH NAME(S)
+bir_origin.txt,NOTES
+bir_origin.txt,NEST
+bir_origin.txt,OUTER SURFACE
+bir_origin.txt,INNER SURFACE
+bir_origin.txt,EGGS
+bir_origin.txt,EDIBILITY
+bir_origin.txt,HABITAT
+bir_origin.txt,MICROSCOPIC
+bir_origin.txt,NAME ORIGIN
+bir_origin.txt,SIMILAR
+bir_origin.txt,SOURCES
+bol_Origin.txt,FAMILY
+bol_Origin.txt,LATIN NAME(S)
+bol_Origin.txt,ENGLISH NAME(S)
+bol_Origin.txt,NOTES
+bol_Origin.txt,CHEMICAL REACTIONS
+bol_Origin.txt,CAP
+bol_Origin.txt,FLESH
+bol_Origin.txt,PORES
+bol_Origin.txt,STEM
+bol_Origin.txt,ODOR
+bol_Origin.txt,TASTE
+bol_Origin.txt,EDIBILITY
+bol_Origin.txt,HABITAT
+bol_Origin.txt,SPORE DEPOSIT
+bol_Origin.txt,MICROSCOPIC
+bol_Origin.txt,NAME ORIGIN
+bol_Origin.txt,SIMILAR
+bol_Origin.txt,SOURCES
+clu_origin.txt,FAMILY
+clu_origin.txt,LATIN NAME(S)
+clu_origin.txt,ENGLISH NAME(S)
+clu_origin.txt,NOTES
+clu_origin.txt,CHEMICAL REACTIONS
+clu_origin.txt,FRUITING BODY
+clu_origin.txt,FLESH
+clu_origin.txt,STEM
+clu_origin.txt,ODOR
+clu_origin.txt,TASTE
+clu_origin.txt,EDIBILITY
+clu_origin.txt,HABITAT
+clu_origin.txt,SPORE DEPOSIT
+clu_origin.txt,MICROSCOPIC
+clu_origin.txt,NAME ORIGIN
+clu_origin.txt,SIMILAR
+clu_origin.txt,SOURCES
+cor_origin.txt,FAMILY
+cor_origin.txt,LATIN NAME(S)
+cor_origin.txt,ENGLISH NAME(S)
+cor_origin.txt,NOTES
+cor_origin.txt,CHEMICAL REACTIONS
+cor_origin.txt,FRUITING BODY
+cor_origin.txt,FLESH
+cor_origin.txt,BRANCH COLOR
+cor_origin.txt,STEM
+cor_origin.txt,ODOR
+cor_origin.txt,TASTE
+cor_origin.txt,EDIBILITY
+cor_origin.txt,HABITAT
+cor_origin.txt,SPORE DEPOSIT
+cor_origin.txt,MICROSCOPIC
+cor_origin.txt,NAME ORIGIN
+cor_origin.txt,SIMILAR
+cor_origin.txt,SOURCES
+cru_origin.txt,FAMILY
+cru_origin.txt,LATIN NAME(S)
+cru_origin.txt,ENGLISH NAME(S)
+cru_origin.txt,NOTES
+cru_origin.txt,FRUITING BODY
+cru_origin.txt,HABITAT
+cru_origin.txt,MICROSCOPIC
+cru_origin.txt,NAME ORIGIN
+cru_origin.txt,SIMILAR
+cru_origin.txt,SOURCES
+cup_origin.txt,FAMILY
+cup_origin.txt,LATIN NAME(S)
+cup_origin.txt,ENGLISH NAME(S)
+cup_origin.txt,NOTES
+cup_origin.txt,CHEMICAL REACTIONS
+cup_origin.txt,UPPER SURFACE
+cup_origin.txt,FLESH
+cup_origin.txt,UNDERSIDE
+cup_origin.txt,STEM
+cup_origin.txt,ODOR
+cup_origin.txt,TASTE
+cup_origin.txt,EDIBILITY
+cup_origin.txt,HABITAT
+cup_origin.txt,SPORE DEPOSIT
+cup_origin.txt,MICROSCOPIC
+cup_origin.txt,NAME ORIGIN
+cup_origin.txt,SIMILAR
+cup_origin.txt,SOURCES
+gil_origin.txt,FAMILY
+gil_origin.txt,LATIN NAME(S)
+gil_origin.txt,ENGLISH NAME(S)
+gil_origin.txt,NOTES
+gil_origin.txt,CAP
+gil_origin.txt,FLESH
+gil_origin.txt,GILLS
+gil_origin.txt,STEM
+gil_origin.txt,VEIL
+gil_origin.txt,ODOR
+gil_origin.txt,TASTE
+gil_origin.txt,EDIBILITY
+gil_origin.txt,HABITAT
+gil_origin.txt,SPORE DEPOSIT
+gil_origin.txt,MICROSCOPIC
+gil_origin.txt,NAME ORIGIN
+gil_origin.txt,SIMILAR
+gil_origin.txt,SOURCES
+jel_Origin.txt,FAMILY
+jel_Origin.txt,LATIN NAME(S)
+jel_Origin.txt,ENGLISH NAME(S)
+jel_Origin.txt,NOTES
+jel_Origin.txt,FRUITING BODY
+jel_Origin.txt,HABITAT
+jel_Origin.txt,MICROSCOPIC
+jel_Origin.txt,NAME ORIGIN
+jel_Origin.txt,SIMILAR
+jel_Origin.txt,SOURCES
+mor_origin.txt,FAMILY
+mor_origin.txt,LATIN NAME(S)
+mor_origin.txt,ENGLISH NAME(S)
+mor_origin.txt,NOTES
+mor_origin.txt,CHEMICAL REACTIONS
+mor_origin.txt,CAP
+mor_origin.txt,FLESH
+mor_origin.txt,UNDERSIDE
+mor_origin.txt,STEM
+mor_origin.txt,ODOR
+mor_origin.txt,TASTE
+mor_origin.txt,EDIBILITY
+mor_origin.txt,HABITAT
+mor_origin.txt,SPORE DEPOSIT
+mor_origin.txt,MICROSCOPIC
+mor_origin.txt,NAME ORIGIN
+mor_origin.txt,SIMILAR
+oth_Origin.txt,FAMILY
+oth_Origin.txt,LATIN NAME(S)
+oth_Origin.txt,ENGLISH NAME(S)
+oth_Origin.txt,NOTES
+oth_Origin.txt,FRUITING BODY
+oth_Origin.txt,HABITAT
+oth_Origin.txt,MICROSCOPIC
+oth_Origin.txt,NAME ORIGIN
+oth_Origin.txt,SIMILAR
+oth_Origin.txt,SOURCES
+pol_origin.txt,FAMILY
+pol_origin.txt,LATIN NAME(S)
+pol_origin.txt,ENGLISH NAME(S)
+pol_origin.txt,NOTES
+pol_origin.txt,CHEMICAL REACTIONS
+pol_origin.txt,CAP
+pol_origin.txt,FLESH
+pol_origin.txt,PORES
+pol_origin.txt,STEM
+pol_origin.txt,ODOR
+pol_origin.txt,TASTE
+pol_origin.txt,EDIBILITY
+pol_origin.txt,HABITAT
+pol_origin.txt,SPORE DEPOSIT
+pol_origin.txt,MICROSCOPIC
+pol_origin.txt,NAME ORIGIN
+pol_origin.txt,SIMILAR
+pol_origin.txt,SOURCES
+puf_origin.txt,FAMILY
+puf_origin.txt,LATIN NAME(S)
+puf_origin.txt,ENGLISH NAME(S)
+puf_origin.txt,NOTES
+puf_origin.txt,CHEMICAL REACTIONS
+puf_origin.txt,OUTER SURFACE
+puf_origin.txt,INNER LAYER
+puf_origin.txt,SPORE MASS
+puf_origin.txt,STEM
+puf_origin.txt,ODOR
+puf_origin.txt,TASTE
+puf_origin.txt,EDIBILITY
+puf_origin.txt,HABITAT
+puf_origin.txt,SPORE DEPOSIT
+puf_origin.txt,MICROSCOPIC
+puf_origin.txt,NAME ORIGIN
+puf_origin.txt,SIMILAR
+puf_origin.txt,SOURCES
+too_Origin.txt,FAMILY
+too_Origin.txt,LATIN NAME(S)
+too_Origin.txt,ENGLISH NAME(S)
+too_Origin.txt,NOTES
+too_Origin.txt,CHEMICAL REACTIONS
+too_Origin.txt,CAP
+too_Origin.txt,FLESH
+too_Origin.txt,TEETH
+too_Origin.txt,STEM
+too_Origin.txt,ODOR
+too_Origin.txt,TASTE
+too_Origin.txt,EDIBILITY
+too_Origin.txt,HABITAT
+too_Origin.txt,SPORE DEPOSIT
+too_Origin.txt,MICROSCOPIC
+too_Origin.txt,NAME ORIGIN
+too_Origin.txt,SIMILAR
+too_Origin.txt,SOURCES
+tru_origin.txt,FAMILY
+tru_origin.txt,LATIN NAME(S)
+tru_origin.txt,ENGLISH NAME(S)
+tru_origin.txt,NOTES
+tru_origin.txt,CHEMICAL REACTIONS
+tru_origin.txt,OUTER SURFACE
+tru_origin.txt,INNER LAYER
+tru_origin.txt,INTERIOR
+tru_origin.txt,STEM
+tru_origin.txt,ODOR
+tru_origin.txt,TASTE
+tru_origin.txt,EDIBILITY
+tru_origin.txt,HABITAT
+tru_origin.txt,SPORE DEPOSIT
+tru_origin.txt,MICROSCOPIC
+tru_origin.txt,NAME ORIGIN
+tru_origin.txt,SIMILAR
+tru_origin.txt,SOURCES
+vei_origin.txt,FAMILY
+vei_origin.txt,LATIN NAME(S)
+vei_origin.txt,ENGLISH NAME(S)
+vei_origin.txt,NOTES
+vei_origin.txt,CHEMICAL REACTIONS
+vei_origin.txt,CAP
+vei_origin.txt,FLESH
+vei_origin.txt,UNDERSIDE
+vei_origin.txt,STEM
+vei_origin.txt,ODOR
+vei_origin.txt,TASTE
+vei_origin.txt,EDIBILITY
+vei_origin.txt,HABITAT
+vei_origin.txt,SPORE DEPOSIT
+vei_origin.txt,MICROSCOPIC
+vei_origin.txt,NAME ORIGIN
+vei_origin.txt,SIMILAR
+vei_origin.txt,SOURCES
